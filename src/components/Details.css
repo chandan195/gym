@@ -1,0 +1,28 @@
+.details{
+    background-color: rgb(34, 31, 31);
+    color: azure;
+}
+.wtf{
+    margin-top: 10%;
+}
+label{
+    margin-bottom: 5%;
+    font-size: 35px
+}
+.card{
+    padding: 5%;
+    border-radius:10%;
+    background-color: rgb(73, 71, 71);
+}
+.myCard1{
+    display: flex;
+    background-color: rgb(73, 233, 113);
+margin: 10px;
+    border-radius: 20px;
+}
+.price{
+    font-size: 40px;
+}
+.ft{
+    padding: 20px;
+}
